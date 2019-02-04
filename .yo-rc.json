@@ -1,0 +1,10 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "2019",
+      "license": "Apache 2",
+      "author": "Ganesh S Acharya",
+      "boilerplate": "appstore"
+    }
+  }
+}
