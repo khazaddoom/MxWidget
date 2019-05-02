@@ -5,7 +5,9 @@
   "license": "Apache 2",
   "author": "Ganesh S Acharya",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "tar-fs": "^2.0.0"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "^1.0.0",
