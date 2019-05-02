@@ -5,8 +5,7 @@
   "license": "Apache 2",
   "author": "Ganesh S Acharya",
   "private": true,
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.4",
     "grunt-contrib-clean": "^1.0.0",
@@ -19,6 +18,7 @@
     "node-mendix-modeler-path": "https://github.com/JelteMX/node-mendix-modeler-path/archive/v1.0.0.tar.gz",
     "semver": "^5.1.0",
     "shelljs": "^0.7.4",
+    "tar": "^4.4.8",
     "xml2js": "^0.4.17"
   },
   "engines": {
